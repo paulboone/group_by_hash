@@ -14,8 +14,10 @@ Gem::Specification.new do |s|
 }
   s.email = %q{paulboone@mindbucket.com}
   s.files = [
-    "Rakefile",
+    ".gitignore",
+     "Rakefile",
      "VERSION",
+     "group_by_hash.gemspec",
      "lib/group_by_hash.rb",
      "spec/group_by_hash_spec.rb",
      "spec/spec_helper.rb"
